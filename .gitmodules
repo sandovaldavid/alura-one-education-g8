@@ -1,0 +1,6 @@
+[submodule "programming-logic/programming-logic-part-1"]
+	path = programming-logic/programming-logic-part-1
+	url = git@github.com:sandovaldavid/programming-logic-part-1.git
+[submodule "programming-logic/programming-logic-part-2"]
+	path = programming-logic/programming-logic-part-2
+	url = git@github.com:sandovaldavid/programming-logic-part-2.git
